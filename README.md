@@ -1,4 +1,4 @@
-# Selenium Automation Tasks
+# Assignment: Selenium Automation Tasks
 
 This repository contains practice tasks using **Selenium WebDriver with Java**.  
 The purpose of these tasks is to learn and demonstrate:
